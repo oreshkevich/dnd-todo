@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dnd-todo/static/css/main.dd916cba.chunk.css",
+    "main.js": "/dnd-todo/static/js/main.69b56aa4.chunk.js",
+    "main.js.map": "/dnd-todo/static/js/main.69b56aa4.chunk.js.map",
+    "runtime-main.js": "/dnd-todo/static/js/runtime-main.d57b54c5.js",
+    "runtime-main.js.map": "/dnd-todo/static/js/runtime-main.d57b54c5.js.map",
+    "static/js/2.df2f4854.chunk.js": "/dnd-todo/static/js/2.df2f4854.chunk.js",
+    "static/js/2.df2f4854.chunk.js.map": "/dnd-todo/static/js/2.df2f4854.chunk.js.map",
+    "index.html": "/dnd-todo/index.html",
+    "static/css/main.dd916cba.chunk.css.map": "/dnd-todo/static/css/main.dd916cba.chunk.css.map",
+    "static/js/2.df2f4854.chunk.js.LICENSE.txt": "/dnd-todo/static/js/2.df2f4854.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d57b54c5.js",
+    "static/js/2.df2f4854.chunk.js",
+    "static/css/main.dd916cba.chunk.css",
+    "static/js/main.69b56aa4.chunk.js"
+  ]
+}
